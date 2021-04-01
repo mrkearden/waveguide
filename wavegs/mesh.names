@@ -1,0 +1,7 @@
+! ----- names for bodies -----
+$ body = 1
+! ----- names for boundaries -----
+$ all = 1
+$ direct = 2
+$ taper = 3
+$ far = 4

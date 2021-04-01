@@ -1,0 +1,22 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = body
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = all
+End
+
+Boundary Condition 2
+  Name = direct
+End
+
+Boundary Condition 3
+  Name = taper
+End
+
+Boundary Condition 4
+  Name = far
+End
+
